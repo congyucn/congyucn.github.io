@@ -7,9 +7,15 @@ I am currently an undergraduate student in University of Elecronic Science and T
 
 # Publication
 
-
+......
 
 # Awards
+* National Encouragement Scholarship 2017
+
 * National Scholarship 2016
+
+* First Prize Award in The Chinese Mathematics Competitions (CMC) 2016
+
+  
 
 
