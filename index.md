@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Introduction
-I am currently an undergraduate student at the School of Information and Communication Engineering, University of Elecronic Science and Technology of China, Chengdu, China. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en) and A.R. Yang Hu. My research interests include deep learning, computer vision and recommendation systems. 
+I am currently an undergraduate student at the School of Information and Communication Engineering & Center for Future Media, University of Elecronic Science and Technology of China, Chengdu, China. I am supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en) and A.R. Yang Hu. My research interests include deep learning, computer vision and recommendation systems.
 
 # Publication
 
