@@ -5,6 +5,7 @@ I am currently working towards the PhD degree at the School of Information and C
 ......
 
 # Awards
+- National Encouragement Scholarship, 2018
 - National Encouragement Scholarship, 2017
 - 33rd Place Award in IEEEXtreme 11.0, 2017
 - National Scholarship, 2016
