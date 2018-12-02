@@ -1,24 +1,80 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
-    <title>Cong Yu (俞聪)</title>
+    <meta charset=utf-8"/>
+    <title>Cong Yu</title>
+    <style type="text/css">
+    body {font-family: sans-serif;}
+    div#global{
+    			position: absolute;
+			    left: 0;
+			    right: 0;
+			    margin: auto;
+                width: 1000px;
+                height: 800px;}
+       #top{
+            clear: both;
+            height: 50px;}
+       #heading{
+                width: 1000px;
+                height: 250px;}
+       #head_img{
+                width: 20%;
+                height: 250px;
+                /*定义浮动，不定义的话，界面会乱*/
+                float: left;}
+       #head_intro{
+                width: 80%;
+                height: 250px;
+                float: right;}
+       #content{
+                width: 100%;
+                height: 600px;
+                float: right;}
+       #floor{
+                /*删除浮动，不然会被其他的浮动给遮住*/
+                clear: both;
+                height: 80px;}
+    </style>
 </head>
 <body>
-<h2>Introduction</h2>
-<p>Cong Yu is currently working towards the PhD degree at the School of Information and Communication Engineering & <a href="http://cfm.uestc.edu.cn/index">Center for Future Media</a>, University of Elecronic Science and Technology of China, Chengdu, China. I am supervised by <a href="https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en">Prof. Yan Chen</a> and A.R. Yang Hu. My research interests include deep learning, computer vision, adversarial techniques and recommendation systems.</p>
 
-<h2>Publication</h2>
-<p>......</p>
+<div id="global">
+	<div id="top"></div>
+	<div id="heading", align="center">
+		<div id="head_img", align="left">
+		<img src="./assets/congyu.jpg">
+		</div>
+		<div id="head_intro", align="left">
+			<h2>Cong Yu (俞聪)</h2>
+			<p>Ph.D. Student</p>
+			<p><a href="https://www.uestc.edu.cn/"> University of Elecronic Science and Technology of China</a></p>
 
-<h2>Awards</h2>
-<ul>
-<li>National Encouragement Scholarship, 2018</li>
-<li>National Encouragement Scholarship, 2017</li>
-<li>33rd Place Award in IEEEXtreme 11.0, 2017</li>
-<li>National Scholarship, 2016</li>
-<li>First Prize Award in The Chinese Mathematics Competitions (CMC), 2016</li>
-</ul>
+			<p><b>Address:</b> 2006 Xiyuan Ave., West Hi-Tech Zone, Chengdu, Sichuan, China, 611731</p>
+			<p><b>Email:</b> congyu@std.uestc.edu.cn</p>
+	    </div>
+	</div>
+
+	<div id="content">
+		<h3>Introduction</h3>
+		<p>Cong Yu is currently working towards the Ph.D. degree at the School of Information and Communication Engineering & <a href="http://cfm.uestc.edu.cn/index">Center for Future Media</a>, University of Elecronic Science and Technology of China, Chengdu, China. He is supervised by <a href="https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en">Prof. Yan Chen</a> and A.R. Yang Hu. His research interests include deep learning, computer vision, adversarial techniques and recommendation systems.</p>
+
+		<h3>Publication</h3>
+		<p>......</p>
+
+		<h3>Awards</h3>
+		<ul>
+		<li>National Encouragement Scholarship, 2018</li>
+		<li>National Encouragement Scholarship, 2017</li>
+		<li>33rd Place Award in IEEEXtreme 11.0, 2017</li>
+		<li>National Scholarship, 2016</li>
+		<li>First Prize Award in The Chinese Mathematics Competitions (CMC), 2016</li>
+		</ul>
+	</div>
+
+	<div id="floor">Last Update: December, 2018. @2018. All Rights Reserved.</div>
+
+</div>
 
 </body>
 </html>
