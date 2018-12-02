@@ -13,8 +13,9 @@
                 width: 1000px;
                 height: 800px;}
        #top{
-            clear: both;
-            height: 50px;}
+	       		/*删除浮动，不然会被其他的浮动给遮住*/
+	            clear: both;
+	            height: 50px;}
        #heading{
                 width: 1000px;
                 height: 250px;}
@@ -41,6 +42,7 @@
 
 <div id="global">
 	<div id="top"></div>
+	
 	<div id="heading", align="center">
 		<div id="head_img", align="left">
 		<img src="./assets/congyu.jpg">
